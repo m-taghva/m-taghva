@@ -1,4 +1,4 @@
-<img src="Matrix.gif" height="80" width="100" /><img src="Matrix.gif" height="80" width="100" /><img src="Matrix.gif" height="80" width="100"/><img src="Matrix.gif" height="80" width="100"/><img src="Matrix.gif" height="80" width="100"/>
+<img src="wave.gif" height="80" width="640" />
 
 - 👋 Hi, I’m @m-taghva
 - 👀 I’m interested in open source & network
