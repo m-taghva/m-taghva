@@ -1,5 +1,5 @@
-<h2> &#128521 Hi &nbsp;&nbsp; I’m interested in open source & network </h2>
-<h3> &#128039 I’m currently learning linux </h3> 
+<h2> &#128526 Hi &nbsp; I’m interested in open source & network </h2>
+<h3> &#128039  I’m currently learning linux </h3> 
 
 <img src="wave2.gif" height="110" width="640" />
 
