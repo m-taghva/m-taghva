@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @m-taghva
-- 👀 I’m interested in open source & network
+- 👀 I’m interested in open source & networking
 - 🌱 I’m currently learning linux
 
 
