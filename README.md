@@ -1,5 +1,3 @@
-<img src="wave.gif" height="150" width="640" />
-
 - 👀 I’m interested in open source & network
 - 🌱 I’m currently learning linux
 
