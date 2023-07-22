@@ -1,10 +1,9 @@
 <img src="wave.gif" height="150" width="640" />
 
-- 👋 Hi, I’m @m-taghva
 - 👀 I’m interested in open source & network
 - 🌱 I’m currently learning linux
-  
-<img src="wave.gif" height="150" width="640" />
+
+<img src="wave.gif" height="120" width="640" />
 
 <img src="mtinfo.png" width="671" height="671"/>
 <!--- 
