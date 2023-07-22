@@ -1,5 +1,5 @@
-- 👀 I’m interested in open source & network
-- 🌱 I’m currently learning linux
+<h2> 👀 I’m interested in open source & network </h2>
+<h4>🌱 I’m currently learning linux </h4>
 
 <img src="wave.gif" height="120" width="640" />
 
