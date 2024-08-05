@@ -1,7 +1,7 @@
 <h2>&#128311 Hi, &nbsp;I’m interested in open source & network &#128311</h2>
 <h3>&#128313 I’m currently learning linux &#128313</h3> 
 
-<img src="wave2.gif" height="110" width="671"/>
+<img src="wave3.gif" height="110" width="671"/>
 
 <img src="mtinfo.png" width="671" height="671"/>
 
